@@ -1,2 +1,2 @@
 # Internship
-CDAC student trainee
+Internship on Android application development. I did it in June 2016 in CDAC, Hyderabad, India.We developed an Android Application named as 'Hair Style App' to book an appointment for hair cutting for male.We were the team of four members.My task was to Create several activities and user interface for those activities.A detail form is given to the user to fill his name, mobile number and the date when the user want to book an appointment for. Later on user gets notification on his cell phone for the confirmation of booking. This was a just a small application without any backend.
